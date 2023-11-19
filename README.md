@@ -1,1 +1,5 @@
-inicial
+Definições:
+    Alcascript:
+        - Configuracoes
+        - Usuarios
+        - Ocorrencias
